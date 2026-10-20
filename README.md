@@ -4,6 +4,8 @@ A vendor-neutral, standards-first mastery guide to optical transceivers for Ethe
 
 Snapshot of the living guide at document revision 346, exported October 19, 2026; content reflects the industry as of October 2026. Diagrams are rendered from the guide's own figure sources and switch between light and dark versions with your GitHub theme.
 
+**Read it as a site:** [clsulliv155.github.io/optics_guide](https://clsulliv155.github.io/optics_guide/) — the same guide as a topic-by-topic app with search, a glossary filter and the mastery checks, deployed from `site/` on every push to `main`.
+
 ## Contents
 
 **Start here**
